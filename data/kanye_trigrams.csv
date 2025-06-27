@@ -1,0 +1,11 @@
+ngram,freq,ngram_type
+"('n*gga', 'heil', 'hitler')",19,trigram
+"('heil', 'hitler', 'n*gga')",8,trigram
+"('hitler', 'n*gga', 'heil')",8,trigram
+"('all', 'my', 'n*ggas')",4,trigram
+"('heil', 'hitler', 'hey')",4,trigram
+"('n*ggas', 'nazis', 'n*gga')",3,trigram
+"('my', 'n*ggas', 'nazis')",3,trigram
+"('hitler', 'all', 'my')",3,trigram
+"('heil', 'hitler', 'all')",3,trigram
+"('hey', 'n*gga', 'heil')",3,trigram
