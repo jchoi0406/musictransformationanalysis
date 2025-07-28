@@ -31,12 +31,12 @@
 29,"Nigga, Heil Hitler",1,Chorus,Kanye West,30
 30,"Nigga, Heil Hitler",1,Chorus,Kanye West,31
 31,"Nigga, Heil Hitler",1,Chorus,Kanye West,32
-32,Whores in this house,1,Chorus,Cardi B,1
-33,There's some whores in this house,1,Chorus,Cardi B,2
-34,There's some whores in this house,1,Chorus,Cardi B,3
-35,There's some whores in this house (Hol' up),1,Chorus,Cardi B,4
-36,"I said certified freak, seven days a week",0,Chorus,Cardi B,5
-37,"Wet-ass pussy, make that pullout game weak, woo (Ah)",1,Chorus,Cardi B,6
+32,Whores in this house,1,Intro,Cardi B,1
+33,There's some whores in this house,1,Intro,Cardi B,2
+34,There's some whores in this house,1,Intro,Cardi B,3
+35,There's some whores in this house (Hol' up),1,Intro,Cardi B,4
+36,"I said certified freak, seven days a week",0,Intro,Cardi B,5
+37,"Wet-ass pussy, make that pullout game weak, woo (Ah)",1,Intro,Cardi B,6
 38,"Yeah, yeah, yeah, yeah",0,Chorus,Cardi B,7
 39,"Yeah, you fuckin' with some wet-ass pussy",1,Chorus,Cardi B,8
 40,Bring a bucket and a mop for this wet-ass pussy,1,Chorus,Cardi B,9
@@ -103,16 +103,16 @@
 101,"Now get a bucket and a mop, that's some wet-ass pussy",1,Chorus,Cardi B,70
 102,"I'm talkin' wap, wap, wap, that's some wet-ass pussy",1,Chorus,Cardi B,71
 103,"Macaroni in a pot, that's some wet-ass pussy, huh",1,Chorus,Cardi B,72
-104,There's some whores in this house,1,Chorus,Cardi B,73
-105,There's some whores in this house,1,Chorus,Cardi B,74
-106,There's some whores in this house,1,Chorus,Cardi B,75
-107,There's some whores in this house,1,Chorus,Cardi B,76
-108,There's some whores in this house,1,Chorus,Cardi B,77
-109,There's some whores in this house,1,Chorus,Cardi B,78
-110,There's some whores in this house,1,Chorus,Cardi B,79
-111,There's some whores in this house,1,Chorus,Cardi B,80
-112,There's some whores in this house,1,Chorus,Cardi B,81
-113,There's some whores in this house,1,Chorus,Cardi B,82
+104,There's some whores in this house,1,Outro,Cardi B,73
+105,There's some whores in this house,1,Outro,Cardi B,74
+106,There's some whores in this house,1,Outro,Cardi B,75
+107,There's some whores in this house,1,Outro,Cardi B,76
+108,There's some whores in this house,1,Outro,Cardi B,77
+109,There's some whores in this house,1,Outro,Cardi B,78
+110,There's some whores in this house,1,Outro,Cardi B,79
+111,There's some whores in this house,1,Outro,Cardi B,80
+112,There's some whores in this house,1,Outro,Cardi B,81
+113,There's some whores in this house,1,Outro,Cardi B,82
 114,"I see your teeth flash, Jamaican honey, so sweet",0,Verse,Elton John,1
 115,Down where Lexington cross 47th Street,1,Verse,Elton John,2
 116,"Oh, she's a big girl, she's standin' six-foot-three",0,Verse,Elton John,3
@@ -223,10 +223,10 @@
 221,Hate the ones who teach they children you ain't shit 'cause they said so,1,Verse,Tom Macdonald,74
 222,Hate the ones who think you're all the same and judge you profusely,1,Verse,Tom Macdonald,75
 223,'Cause the way that you're portrayed on our news and in movies,0,Verse,Tom Macdonald,76
-224,"Bein' white and bein' racist aren't the same, man, I promise",1,Verse,Tom Macdonald,77
-225,Know it's hard to tell the difference if I'm just bein' honest,1,Verse,Tom Macdonald,78
-226,I deserve the chance to show you I'm not part of the problem,0,Verse,Tom Macdonald,79
-227,"And you owe it to yourselves, we got so much in common",0,Verse,Tom Macdonald,80
+224,"Bein' white and bein' racist aren't the same, man, I promise",1,Bridge,Tom Macdonald,77
+225,Know it's hard to tell the difference if I'm just bein' honest,1,Bridge,Tom Macdonald,78
+226,I deserve the chance to show you I'm not part of the problem,0,Bridge,Tom Macdonald,79
+227,"And you owe it to yourselves, we got so much in common",0,Bridge,Tom Macdonald,80
 228,"White boy, don't say that",1,Chorus,Tom Macdonald,81
 229,"White boy, oh, you so bad",1,Chorus,Tom Macdonald,82
 230,"White boy, you wish you were black",1,Chorus,Tom Macdonald,83
