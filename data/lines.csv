@@ -17,10 +17,10 @@
 15,"All my niggas godly, Nigga, Heil Hitler (Hey)",1,Chorus,Kanye West,16
 16,"Nigga, Heil Hitler, Nigga, Heil Hitler",1,Chorus,Kanye West,17
 17,"All my niggas Nazi's, nigga, Heil Hitler",1,Chorus,Kanye West,18
-18,"She wanna fuck in Japan, I put the chrome on the Benz",1,Chorus,Kanye West,19
-19,"Nigga, Heil Hitler",1,Chorus,Kanye West,20
-20,"She reachin' down in my pants, she got the world in her hands",0,Chorus,Kanye West,21
-21,"Nigga, Heil Hitler (Hey)",1,Chorus,Kanye West,22
+18,"She wanna fuck in Japan, I put the chrome on the Benz",1,Verse,Kanye West,19
+19,"Nigga, Heil Hitler",1,Verse,Kanye West,20
+20,"She reachin' down in my pants, she got the world in her hands",0,Verse,Kanye West,21
+21,"Nigga, Heil Hitler (Hey)",1,Verse,Kanye West,22
 22,"Nigga, Heil Hitler",1,Chorus,Kanye West,23
 23,"Nigga, Heil Hitler",1,Chorus,Kanye West,24
 24,"All my niggas Nazi's, nigga, Heil Hitler (Hey)",1,Chorus,Kanye West,25
@@ -40,7 +40,7 @@
 38,"Yeah, yeah, yeah, yeah",0,Chorus,Cardi B,7
 39,"Yeah, you fuckin' with some wet-ass pussy",1,Chorus,Cardi B,8
 40,Bring a bucket and a mop for this wet-ass pussy,1,Chorus,Cardi B,9
-41,Give me everything you got for this wet-ass pussy,1,Chorus,Cardi B,10
+41,Give me everything you got for this wet-ass pussy ,1,Chorus,Cardi B,10
 42,"Beat it up, nigga, catch a charge",0,Verse,Cardi B,11
 43,Extra large and extra hard,1,Verse,Cardi B,12
 44,Put this pussy right in your face,1,Verse,Cardi B,13
@@ -64,10 +64,10 @@
 62,Ask for a car while you ride that dick (While you ride that dick),1,Verse,Cardi B,31
 63,You really ain't never gotta fuck him for a thang (Yeah),0,Verse,Cardi B,32
 64,"He already made his mind up 'fore he came (Ayy, ah)",1,Verse,Cardi B,33
-65,"Now get your boots and your coat for this wet-ass pussy (Ah, ah, ah)",1,Verse,Cardi B,34
-66,"He bought a phone just for pictures of this wet-ass pussy (Click, click, click)",1,Verse,Cardi B,35
-67,"Paid my tuition just to kiss me on this wet-ass pussy (Mwah, mwah, mwah)",1,Verse,Cardi B,36
-68,"Now make it rain if you wanna see some wet-ass pussy (Yeah, yeah)",1,Verse,Cardi B,37
+65,"Now get your boots and your coat for this wet-ass pussy (Ah, ah, ah)",1,Chorus,Cardi B,34
+66,"He bought a phone just for pictures of this wet-ass pussy (Click, click, click)",1,Chorus,Cardi B,35
+67,"Paid my tuition just to kiss me on this wet-ass pussy (Mwah, mwah, mwah)",1,Chorus,Cardi B,36
+68,"Now make it rain if you wanna see some wet-ass pussy (Yeah, yeah)",1,Chorus,Cardi B,37
 69,"Look, I need a hard hitter, need a deep stroker",1,Verse,Cardi B,38
 70,"Need a Henny drinker, need a weed smoker",1,Verse,Cardi B,39
 71,"Not a garter snake, I need a king cobra",1,Verse,Cardi B,40
